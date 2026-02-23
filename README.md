@@ -28,8 +28,8 @@ This allows scalable architecture without premature microservice complexity.
 
 ## Tech Stack (Planned)
 
-- Java 17+
-- Spring Boot
+- Java 21 (LTS)
+- Spring Boot 3.x
 - Spring Security
 - WebSocket (STOMP)
 - PostgreSQL
