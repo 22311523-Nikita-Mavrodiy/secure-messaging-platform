@@ -37,6 +37,14 @@ This allows scalable architecture without premature microservice complexity.
 - Docker & Docker Compose
 - JUnit & Mockito
 
+## Development Environment
+
+- JDK: Eclipse Temurin 21 (LTS)
+- Build Tool: Maven
+- IDE: IntelliJ IDEA Ultimate
+
+The project targets Java 21 (LTS) to align with modern enterprise standards.
+
 ## Project Status
 
 Version 0.0 – Initial planning phase
